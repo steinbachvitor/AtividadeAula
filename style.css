@@ -1,0 +1,30 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f0f0f0;
+	margin: 0;
+	padding: 0;
+}
+
+#header {
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+}
+
+#profile-image {
+	max-width: 200px;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+#main-content {
+	padding: 20px;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.imagem{
+	align-self: self-start;
+	
+}
